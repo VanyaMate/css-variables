@@ -1,0 +1,18 @@
+:root body.dark {
+    --primary                 : var(--blue);
+    --primary-foreground      : var(--white);
+    --secondary               : var(--gray-4);
+    --secondary-foreground    : var(--white);
+    --danger                  : var(--red);
+    --danger-foreground       : var(--white);
+    --success                 : var(--green);
+    --success-foreground      : var(--white);
+    --bg-main                 : var(--black);
+    --bg-main-foreground      : var(--white);
+    --bg-secondary            : var(--gray-7);
+    --bg-secondary-foreground : var(--white);
+    --bg-third                : var(--gray-6);
+    --bg-third-foreground     : var(--white);
+    --border-color            : var(--gray-2);
+    --ghost                   : var(--gray-5);
+}

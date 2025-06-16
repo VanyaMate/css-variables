@@ -1,0 +1,9 @@
+{
+    "name": "@vanyamate/css-variables",
+    "private": false,
+    "version": "0.0.2",
+    "main": "src/index.css",
+    "files": [
+        "src"
+    ]
+}

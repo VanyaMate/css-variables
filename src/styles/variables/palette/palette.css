@@ -1,0 +1,17 @@
+:root {
+    --blue   : #4459FF;
+    --red    : #F55;
+    --yellow : #F5F52B;
+    --orange : #F62;
+    --green  : #4CAF50;
+    --black  : #000;
+    --white  : #FFF;
+    --gray-0 : #EEE;
+    --gray-1 : #CCC;
+    --gray-2 : #AAA;
+    --gray-3 : #888;
+    --gray-4 : #666;
+    --gray-5 : #444;
+    --gray-6 : #222;
+    --gray-7 : #111;
+}

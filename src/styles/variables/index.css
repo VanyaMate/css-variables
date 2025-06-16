@@ -1,0 +1,4 @@
+@import "./palette/palette.css";
+@import "./themes/light.theme.css";
+@import "./themes/dark.theme.css";
+@import "./sizes/sizes.css";
