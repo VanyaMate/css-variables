@@ -1,6 +1,6 @@
 :root {
-    --offset        : 9px;
-    --offset-small  : calc(var(--offset) * .5);
-    --offset-medium : var(--offset);
-    --offset-large  : calc(var(--offset-small) * 2);
+    --offset-x-small : 3px;
+    --offset-small   : 5px;
+    --offset-medium  : 10px;
+    --offset-large   : 15px;
 }

@@ -14,5 +14,5 @@
     --bg-third                : var(--gray-3);
     --bg-third-foreground     : var(--black);
     --border-color            : var(--gray-2);
-    --ghost                   : var(--gray-3);
+    --ghost                   : var(--gray-5);
 }

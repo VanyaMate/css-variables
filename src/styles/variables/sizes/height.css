@@ -1,0 +1,10 @@
+:root {
+    --height-xx-small  : 15px;
+    --height-x-small   : 20px;
+    --height-small     : 25px;
+    --height-medium    : 30px;
+    --height-large     : 35px;
+    --height-x-large   : 40px;
+    --height-xx-large  : 45px;
+    --height-xxx-large : 50px;
+}
