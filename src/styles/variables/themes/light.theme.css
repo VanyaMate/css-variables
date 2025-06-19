@@ -1,15 +1,15 @@
 :root body.light {
     --primary                 : var(--blue);
     --primary-foreground      : var(--white);
-    --secondary               : var(--gray-4);
-    --secondary-foreground    : var(--white);
+    --secondary               : var(--gray-1);
+    --secondary-foreground    : var(--black);
     --danger                  : var(--red);
     --danger-foreground       : var(--white);
     --success                 : var(--green);
     --success-foreground      : var(--white);
     --bg-main                 : var(--white);
     --bg-main-foreground      : var(--black);
-    --bg-secondary            : var(--gray-1);
+    --bg-secondary            : var(--gray-0);
     --bg-secondary-foreground : var(--black);
     --bg-third                : var(--gray-3);
     --bg-third-foreground     : var(--black);

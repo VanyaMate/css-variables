@@ -1,7 +1,7 @@
 :root body.dark {
     --primary                 : var(--blue);
     --primary-foreground      : var(--white);
-    --secondary               : var(--gray-6);
+    --secondary               : var(--gray-7);
     --secondary-foreground    : var(--white);
     --danger                  : var(--red);
     --danger-foreground       : var(--white);
